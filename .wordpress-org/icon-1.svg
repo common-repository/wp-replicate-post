@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-128x128</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3789F1" offset="0%"></stop>
+            <stop stop-color="#EF2929" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#37D8F1" offset="0%"></stop>
+            <stop stop-color="#29EAEF" stop-opacity="0.299818841" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon-128x128" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-4" fill="#020D11" x="0" y="0" width="128" height="128" rx="64"></rect>
+        <g id="Group" transform="translate(35.500000, 35.500000)" stroke-width="7.97500017">
+            <rect id="Rectangle" stroke="url(#linearGradient-1)" style="mix-blend-mode: screen;" x="0" y="0" width="43.8776978" height="43.8776978" rx="1.23750003"></rect>
+            <rect id="Rectangle-Copy" stroke="url(#linearGradient-2)" style="mix-blend-mode: screen;" x="13.1223022" y="13.1223022" width="43.8776978" height="43.8776978" rx="1.23750003"></rect>
+        </g>
+    </g>
+</svg>
